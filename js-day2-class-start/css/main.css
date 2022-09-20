@@ -1,0 +1,16 @@
+/* .answer{
+  border:1px solid #56A0D3;
+  width:50%;
+  min-height:50px;
+}
+
+.tarheel-blue{
+  color:#56A0D3;
+} */
+
+/* TABLE BORDER!!! */
+/* https://www.w3schools.com/html/html_table_borders.asp */
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
